@@ -1,0 +1,5 @@
+Parametros de Lanzamiento Steam Cs2:
+
+-high -mainthreadpriority 2 +exec autoexec 
+
+-By L1nkz 
