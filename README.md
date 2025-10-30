@@ -11,7 +11,7 @@ Abre Steam → Biblioteca → Clic derecho en CS2 → Propiedades.
 
 - Ve a Opciones de lanzamiento e introduce todo el bloque anterior.
 
-![Image](https://github.com/user-attachments/assets/d3f29752-0196-4479-a10d-9d039c5bb779)
+<img width="837" height="593" alt="Image" src="https://github.com/user-attachments/assets/e324bec1-e6e6-4bb1-9901-5e18e0799b80" />
 
 - Actualizacion de Parametros de Lanzamiento Steam Oct 2025.
 
